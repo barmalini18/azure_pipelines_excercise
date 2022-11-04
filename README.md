@@ -60,9 +60,10 @@ Instructions for running the Python project.  How could a user with no context r
 ![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/776d44f7533ee3b418a8fa490ddcac7af3fdde72/media/07.jpg)
 
 
-* Passing tests that are displayed after running the `make all` command from the `Makefile`
+4. Make sure the tests that are displayed after running the `make all` command from the `Makefile`pass
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/2392c034d9ff56628c3ca644f696e5111cde6325/media/08.jpg)
 
-* Output of a test run
+* Show the Output of a test run
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
