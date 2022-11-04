@@ -12,7 +12,7 @@ CI part of Project6, Scaffolding, lynting, tests etc.
 ## Project Plan
 <TODO: Project Plan
 
-* A link to a Trello board for the project
+* A link to a Trello board for the project [here](https://trello.com/b/iHS6JeNO/documentation)
 * A link to a spreadsheet that includes the original and final project plan>
 https://github.com/barmalini18/flask-ml-azure-serverless/blob/main/media/project-management-template.xlsx
 
