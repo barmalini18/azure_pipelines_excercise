@@ -14,6 +14,7 @@ CI part of Project6, Scaffolding, lynting, tests etc.
 
 * A link to a Trello board for the project
 * A link to a spreadsheet that includes the original and final project plan>
+https://github.com/barmalini18/flask-ml-azure-serverless/blob/main/media/project-management-template.xlsx
 
 ## Instructions
 
