@@ -24,13 +24,15 @@ In this project, CI/CD is built for Boston house price predictor. The machine le
 * A link to a spreadsheet that includes the original and final project plan [here](https://docs.google.com/spreadsheets/d/1l1EliuHYJEZpyunagz2PYIUMhirqLyhe/edit?usp=sharing&ouid=110205692645048557882&rtpof=true&sd=true)
 
 
-* Architectural Diagram (Shows how key parts of the system work)
+# Architectural Diagram (Shows how key parts of the system work)
 ![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/c113e9e2395bb7aafa16d19a259b5b4f0b07459d/media/cd-diagram.png)
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+# Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
-* Project running on Azure App Service
+[Project cloned into Azure Cloud Shell](https://github.com/barmalini18/flask-ml-azure-serverless.git)
 
+1. First, create github repository with scaffolding code (simple code with test, makefile and requirements.txt to install flas, pytest and pylint). Test using github action
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/f5a6c215eec33a4d716fa4d18e889579f5769578/media/01.jpg)
 * Project cloned into Azure Cloud Shell
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
