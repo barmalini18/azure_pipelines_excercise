@@ -21,7 +21,7 @@ In this project, CI/CD is built for Boston house price predictor. The machine le
 
 
 * A link to a Trello board for the project [here](https://trello.com/b/iHS6JeNO/documentation)
-* A link to a spreadsheet that includes the original and final project plan [here](https://github.com/barmalini18/flask-ml-azure-serverless/blob/main/media/project-management-template.xlsx)
+* A link to a spreadsheet that includes the original and final project plan [here](https://docs.google.com/spreadsheets/d/1l1EliuHYJEZpyunagz2PYIUMhirqLyhe/edit?usp=sharing&ouid=110205692645048557882&rtpof=true&sd=true)
 
 ## Instructions
 
