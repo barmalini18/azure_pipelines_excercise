@@ -41,10 +41,11 @@ Instructions for running the Python project.  How could a user with no context r
 ![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/4d4a8a5f91c58a399ae18ce69fa251352015ce50/media/03.jpg)
 
 4. Connect to github actions, and generate github actions badge
+
 ![example workflow](https://github.com/barmalini18/AzureCI/actions/workflows/pythonapp.yml/badge.svg)
 
 5. Clone the github repo in Azure Cloud Shell
-[img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/36be9a472aad5586cc7500802f6fff4b3073d1ff/media/04.jpg)
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/36be9a472aad5586cc7500802f6fff4b3073d1ff/media/04.jpg)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
