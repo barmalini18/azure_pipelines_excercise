@@ -70,21 +70,31 @@ Port: 443
 ![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/8a9dfee85e8ffa79b8839ef17893a96e3ceeb74d/media/09.jpg)
 
 
-* Show the Output of a test run
+* Successful deploy of the project in Azure Pipelines.
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+1. Create devops project.
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/509842360898e1874e358789f3fdcfae602e184a/media/12.jpg)
+
+2. Create service connection.
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/509842360898e1874e358789f3fdcfae602e184a/media/13.jpg)
+
+3. Create Pipeline.
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/509842360898e1874e358789f3fdcfae602e184a/media/14.jpg)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/56da21359bf42c4f6a3758ed10db37035d64deab/media/15.jpg)
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  
 
-* Output of streamed log files from deployed application
-
-> 
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+Planning to improve the project:
+
+    In the future, the project can be enhanced with data for another cities worldwide
+    Current project limited to python3.7. In the future it can be developed with newer Python version so we can use newer machine learning packages.
+    The deployment may use docker.
+    Develop web and application to use the current api.
+
 
 ## Demo 
 
