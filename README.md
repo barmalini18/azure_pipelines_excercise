@@ -88,6 +88,6 @@ Port: 443
 
 ## Demo 
 
-![Video](https://youtu.be/bfPRW3fJefg)
+For Youtube screen-cast follow [this](https://youtu.be/bfPRW3fJefg) link
 
 
