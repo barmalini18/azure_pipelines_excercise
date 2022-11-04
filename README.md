@@ -1,11 +1,3 @@
-# flask-ml-azure
-Flask. ML. Azure. DevOps
-# AzureCI
-CI part of Project6, Scaffolding, lynting, tests etc.
-Demonstrates the current status of the code in repository.
-
-![example workflow](https://github.com/barmalini18/AzureCI/actions/workflows/pythonapp.yml/badge.svg)
-
 # Overview
 
 In this project, CI/CD is built for Boston house price predictor. The machine learning model as in this udacity repository. This document describes:
@@ -60,7 +52,7 @@ Instructions for running the Python project.  How could a user with no context r
 ![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/776d44f7533ee3b418a8fa490ddcac7af3fdde72/media/07.jpg)
 
 
-4. Make sure the tests that are displayed after running the `make all` command from the `Makefile`pass
+4. Make sure the tests running the `make all` command from the `Makefile`pass
 ![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/2392c034d9ff56628c3ca644f696e5111cde6325/media/08.jpg)
 
 5. Check in browser the webapp is running
