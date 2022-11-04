@@ -63,13 +63,11 @@ Instructions for running the Python project.  How could a user with no context r
 4. Make sure the tests that are displayed after running the `make all` command from the `Makefile`pass
 ![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/2392c034d9ff56628c3ca644f696e5111cde6325/media/08.jpg)
 
-* Show the Output of a test run
+5. Check in browser the webapp is running
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/8a9dfee85e8ffa79b8839ef17893a96e3ceeb74d/media/11.jpg)
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
-
-* Running Azure App Service from Azure Pipelines automatic deployment
-
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
+6. Call the prediction api by calling the provided scripts:
+[Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
 
 ```bash
@@ -77,6 +75,16 @@ udacity@Azure:~$ ./make_predict_azure_app.sh
 Port: 443
 {"prediction":[20.35373177134412]}
 ```
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/8a9dfee85e8ffa79b8839ef17893a96e3ceeb74d/media/09.jpg)
+
+
+* Show the Output of a test run
+
+* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+
+* Running Azure App Service from Azure Pipelines automatic deployment
+
+* Successful prediction from deployed flask app in Azure Cloud Shell.  
 
 * Output of streamed log files from deployed application
 
