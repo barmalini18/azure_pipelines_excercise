@@ -93,7 +93,7 @@ Planning to improve the project:
     In the future, the project can be enhanced with data for another cities worldwide
     Current project limited to python3.7. In the future it can be developed with newer Python version so we can use newer machine learning packages.
     The deployment may use docker.
-    Develop web and application to use the current api.
+    Develop web and application to use the current api. Develop Mobile version of the application. 
 
 
 ## Demo 
