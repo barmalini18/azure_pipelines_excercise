@@ -7,14 +7,20 @@ CI part of Project6, Scaffolding, lynting, tests etc.
 
 # Overview
 
-<TODO: complete this with an overview of your project>
+In this project, CI/CD is built for Boston house price predictor. The machine learning model as in this udacity repository. This document describes:
 
-## Project Plan
-<TODO: Project Plan
+    The project plan in trello and spreadsheet
+    Architectural diagram
+    Clone the github repository in azure cloud shell
+    Create and activate the azure webapp
+    Create a CI/CD pipeline in azure
+
+
+# Project Plan
+
 
 * A link to a Trello board for the project [here](https://trello.com/b/iHS6JeNO/documentation)
-* A link to a spreadsheet that includes the original and final project plan>
-https://github.com/barmalini18/flask-ml-azure-serverless/blob/main/media/project-management-template.xlsx
+* A link to a spreadsheet that includes the original and final project plan [here](https://github.com/barmalini18/flask-ml-azure-serverless/blob/main/media/project-management-template.xlsx)
 
 ## Instructions
 
