@@ -27,6 +27,7 @@ In this project, CI/CD is built for Boston house price predictor. The machine le
 
 <TODO:  
 * Architectural Diagram (Shows how key parts of the system work)>
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/c113e9e2395bb7aafa16d19a259b5b4f0b07459d/media/cd-diagram.png)
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
