@@ -2,6 +2,7 @@
 Flask. ML. Azure. DevOps
 # AzureCI
 CI part of Project6, Scaffolding, lynting, tests etc.
+Demonstrates the current status of the code in repository.
 
 ![example workflow](https://github.com/barmalini18/AzureCI/actions/workflows/pythonapp.yml/badge.svg)
 
