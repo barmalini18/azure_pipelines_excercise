@@ -47,6 +47,8 @@ Instructions for running the Python project.  How could a user with no context r
 5. Clone the github repo in Azure Cloud Shell
 ![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/36be9a472aad5586cc7500802f6fff4b3073d1ff/media/04.jpg)
 
+# Deploy to Azure Webapp
+
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
 * Output of a test run
