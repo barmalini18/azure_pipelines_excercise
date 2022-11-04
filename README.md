@@ -49,6 +49,17 @@ Instructions for running the Python project.  How could a user with no context r
 
 # Deploy to Azure Webapp
 
+1. Install Python3.7 (required to run the application) by running the Miniconda script and configuring the PATH variable
+
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/75d4e56bd345bab5af88a182a95f433d293b8999/media/05.jpg)
+
+2. Run Makefile to install the requirement, test, lint.
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/776d44f7533ee3b418a8fa490ddcac7af3fdde72/media/06.jpg)
+
+3. Create and deploy Azure webapp
+![img](https://github.com/barmalini18/flask-ml-azure-serverless/blob/776d44f7533ee3b418a8fa490ddcac7af3fdde72/media/07.jpg)
+
+
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
 * Output of a test run
