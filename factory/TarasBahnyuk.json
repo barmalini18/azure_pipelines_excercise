@@ -1,0 +1,9 @@
+{
+	"name": "TarasBahnyuk",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80453202-e077-4208-ab07-542bedc20608",
+		"tenantId": "ecbb9ec5-7aef-45a7-88f3-77e76f24abf6"
+	}
+}
